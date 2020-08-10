@@ -9,7 +9,7 @@ So first I had to know the need for the engineers. Indeed, the engineers have to
 <br/>
 
 <p align="center">
-  <img src="img/TIMS_srceenshot.png"/>
+  <img src="img/TIMS_screenshot.png"/>
 </p>
 <p align="center">
   <i>Figure 1. Actual TIMS inteface's screenshot</i>
