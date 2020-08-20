@@ -4,7 +4,7 @@ One of the main tasks of this internship topic is the realization of a tool to h
 
 ### Understanding the need
 
-So first I had to know the need for the engineers. Indeed, the engineers have to write a QAdvice for the most critical projects every month. Each QAdvice is made of 14 KMA and for each KMA of the Enablers. Thus, each point requires a comment and a score. This corresponds to about 100 points assessed in each report and to be filled in on the TIMS website (see figure below). This figure shows a KMA with a score, its associated comment and recommendation. Below it is an Enabler with a score and an associated commentary.
+So first I had to know the need for the engineers. Indeed, the engineers have to write a QAdvice for the most critical projects every month. Each QAdvice is made of 14 KMA and for each KMA of the Enablers. Thus, each point requires a comment and a score. This corresponds to about 100 points assessed in each report and to be filled in on the TIMS website (see figure below).TIMS is the name of the database of Thales where they agregate their data. This figure shows a KMA with a score, its associated comment and recommendation. Below it is an Enabler with a score and an associated commentary.
 
 <br/>
 
