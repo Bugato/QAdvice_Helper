@@ -45,3 +45,16 @@ The solution I found is to use the "Diagnostics" module of the "System" library 
 <p align="center">
   <i>Figure 2. Function allowing to execute a Python script with the 'arg' variable as argument.</i>
 </p>
+
+Here are the home page of the application :
+
+<br/>
+
+<p align="center">
+  <img src="img/C_Python_script.png"/>
+</p>
+<p align="center">
+  <i>Figure 3. Home page of the application.</i>
+</p>
+
+From here you can access all the features of the application with the menu on the left.
