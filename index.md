@@ -1,6 +1,6 @@
 ## Introduction
 
-One of the main tasks of this internship topic is the realization of a tool to help writing QAdvices for quality engineers. It intervenes in a context where QAdvices are often neglected, bringing little value. The purpose of the application is therefore to assist its engineers in their decision making by providing them with a maximum of information. We will see in this second part, how the application has been thought and imagined in order to facilitate this task. In a first part, we will see the study of the problem in order to understand the need for QAMs. Then, in a second part, we will see how I approached the learning of the technologies used necessary for the development before approaching the development of the tool. Finally, we will look at the impacts of the work done in the service and how the application will be maintained in the future following my visit.
+One of the main tasks of this internship topic is the realization of a tool to help writing QAdvices for quality engineers. It intervenes in a context where QAdvices are often neglected, bringing little value. The purpose of the application is therefore to assist its engineers in their decision making by providing them with a maximum of information. We will see in this second part, how the application has been thought and imagined in order to facilitate this task. In a first part, we will see the study of the problem in order to understand the need of the engineers. Then, in a second part, we will see how I approached the learning of the technologies used for the development before approaching the development of the tool. Finally, we will look at the impacts of the work done in the service and how the application will be maintained in the future following my visit.
 
 ### Understanding the need
 
@@ -14,3 +14,11 @@ So first I had to know the need for the engineers. Indeed, the engineers have to
 <p align="center">
   <i>Figure 1. Actual TIMS inteface's screenshot</i>
 </p>
+
+This is therefore a heavy and repetitive task. It is therefore understandable that some points in these reports are poorly or incompletely filled in. It is also noticeable in the dataset that many of the comments remain rather superficial and do not really go into detail. Sometimes the comments can be totally the same as the previous QAdvice.It is therefore necessary to make the engineers aware of the importance of these comments.
+
+For the user experience of the application I interviewed several quality engineers about their expectations of an application that would be at their service. The point that comes up most often is that there is a lack of access to information. Indeed, when reports are submitted to the Thales database, it is complicated for the team to find its information. As this database is a cross-cutting tool for all Thales entities, support for the tool is often rather slow. Simple and intuitive access to information is therefore the key point that this application must embark on.
+
+Another thing that had come back was the lack of relevant dashboards. Dashboards make it easy to visualize information in a synthetic way. The application should also offer different ways of displaying information.
+
+We've now addressed the problem, so we'll move on to learning about the technologies used in another part.
