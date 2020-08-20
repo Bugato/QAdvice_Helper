@@ -98,3 +98,17 @@ From it, you can directly write your QAdvice in a menu. Unfortunately, I'm not a
   <i>Figure 7. Export menu.</i>
 </p>
 From it, you can export some data to a .csv file.
+
+### After the internship
+
+The application is designed to be ported to any Thales DMS engineering PC. However, as QAdvices is cross-cutting to all Thales, it is widely possible to universalize the porting to all entities of the group. This part of industrialization of the application is not included in the work of this internship. If the use of the application is to be globalized, we can imagine making a version of the application reserved for the different team managers, allowing them to have personalized dashboards on their data.
+
+We can also imagine having a dynamic connection with the TIMS database via an API. This would allow you to retrieve data directly from the source, to be able to write and publish the QAdvice directly on the server. The limits of the application are there. The tool is standalone, but needs to be fed and updated regularly in order to obtain predictions as close as possible to reality. This operation must therefore be done manually for the moment. There is also a restriction on the data format that is imposed. 
+
+## Conclusion
+
+My mission was to create a tool that is easy to access and to put the quality of information at the centre of its use. Translating the needs of an entire team into an application was not a simple task and the rendering seems to be quite successful. The prediction module brings a real added value in the approach that a quality engineer can have towards his project/program. The contribution of an independent point of view allows any quality engineer to question his opinion and his global vision of the project. One can even imagine that the application detects problems that have already occurred historically in previous projects: "better safe than sorry! ».  All that remains is to get feedback from the use of this application in the team.
+
+
+
+
