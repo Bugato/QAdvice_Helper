@@ -51,7 +51,7 @@ Here are the home page of the application :
 <br/>
 
 <p align="center">
-  <img src="img/C_Python_script.png"/>
+  <img src="img/home_page.png"/>
 </p>
 <p align="center">
   <i>Figure 3. Home page of the application.</i>
