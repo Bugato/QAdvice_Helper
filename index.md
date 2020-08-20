@@ -38,7 +38,6 @@ One of the first problems I faced was the integration of Python scripts in an ap
 The solution I found is to use the "Diagnostics" module of the "System" library directly integrated into C#. This module allows to execute a python script by calling the path of the file and the interpreter. The advantage of this method is that you can use the standard variable input as an argument as if you were calling a method. One can also retrieve the displays of the Python script executed on the standard output by doing a simple Read of it. Here is an example of a Python script call:
 
 <br/>
-
 <p align="center">
   <img src="img/C_Python_script.png"/>
 </p>
@@ -49,7 +48,6 @@ The solution I found is to use the "Diagnostics" module of the "System" library 
 Here are the home page of the application :
 
 <br/>
-
 <p align="center">
   <img src="img/home_page.png"/>
 </p>
@@ -58,3 +56,45 @@ Here are the home page of the application :
 </p>
 
 From here you can access all the features of the application with the menu on the left.
+Here are the main features of the application :
+
+  Prediction menu:
+<br/>
+<p align="center">
+  <img src="img/predictions.png"/>
+</p>
+<p align="center">
+  <i>Figure 4. Predictions interface.</i>
+</p>
+From it, you can select a project and predict the future scores of the KMA of the next QAdvice.
+
+  Visualisation menu:
+ <br/>
+<p align="center">
+  <img src="img/graph.png"/>
+</p>
+<p align="center">
+  <i>Figure 5. Graph Dashboard.</i>
+</p>
+<br/>
+<p align="center">
+  <img src="img/mosaic.png"/>
+</p>
+<p align="center">
+  <i>Figure 6. Mosaïque Dashboard.</i>
+</p>
+From it, you can select a project and display severals information of a project.
+
+  Write menu:
+
+From it, you can directly write your QAdvice in a menu. Unfortunately, I'm not allowed to share with you any screenshot of it.
+
+  Export menu:
+<br/>
+<p align="center">
+  <img src="img/export.png"/>
+</p>
+<p align="center">
+  <i>Figure 7. Export menu.</i>
+</p>
+From it, you can export some data to a .csv file.
